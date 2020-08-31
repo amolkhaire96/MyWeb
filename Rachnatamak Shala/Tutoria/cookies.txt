@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.websitestemplateskits.com	TRUE	/	FALSE	1999999999	__cfduid	d3a31eac89e27115cfade396ea103c9c31597317285
+wtka.websitestemplateskits.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+

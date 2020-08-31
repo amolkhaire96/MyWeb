@@ -1,0 +1,14 @@
+/*
+
+Created By: Amol Khaire
+Purpose: To apply own style sheet
+
+*/
+
+.fixed-header{
+    position: fixed;
+    left: 0;
+    right: 0;
+    z-index: 100;
+    width: 100%;
+}
